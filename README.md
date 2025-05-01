@@ -88,7 +88,8 @@ You may need to choose other `font_face` and `tab_size`.
   "initializationOptions": {
     "fallbackFlags": [
       "-target",
-      "x86_64-w64-windows-gnu"
+      "x86_64-w64-windows-gnu",
+      "-std=c++23"
     ],
   }
 }
