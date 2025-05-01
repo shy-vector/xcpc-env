@@ -200,6 +200,36 @@ Press `Ctrl + Shift + P`, search with `UI: Customize Theme`, and configure your 
 }
 ```
 
+## Format
+
+`.clang-format`:
+
+```txt
+BasedOnStyle: LLVM
+
+UseTab: Never
+
+IndentWidth: 2
+
+TabWidth: 4
+
+BreakBeforeBraces: Attach
+
+AllowShortIfStatementsOnASingleLine: true
+
+AllowShortLoopsOnASingleLine: true
+
+IndentCaseLabels: false
+
+ColumnLimit: 0
+
+AccessModifierOffset: -4
+
+NamespaceIndentation: All
+
+FixNamespaceComments: false
+```
+
 ## dbg-macro
 
 You can use it to print some variables and debug your code.
