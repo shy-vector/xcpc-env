@@ -179,7 +179,7 @@ Save as `C++23.sublime-build`. Now you can press `Ctrl + B` to Compile your code
 
 ### Theme
 
-Press `Ctrl + Shift + P`, search with `UI: Customize Theme`, and configure your theme.
+Press `Ctrl + Shift + P`, search with `UI: Customize Color Scheme`, and configure your theme.
 
 ```json
 // Documentation at https://www.sublimetext.com/docs/color_schemes.html
